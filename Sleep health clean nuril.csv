@@ -1,5 +1,5 @@
 Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder,Blood Pressure Encoded
-1,Male,27,Software Engineer,6.1,6,Low,6,Overweight,126/83,77,4200,Normal,Hipertensi
+1,Male,27,Soft6.1ware Engineer,,6,Low,6,Overweight,126/83,77,4200,Normal,Hipertensi
 2,Male,28,Doctor,6.2,6,Normal,8,Normal,125/80,75,10000,Normal,Hipertensi
 3,Male,28,Doctor,6.2,6,Normal,8,Normal,125/80,75,10000,Normal,Hipertensi
 4,Male,28,Sales Representative,5.9,4,Low,8,Obese,140/90,85,3000,Sleep Apnea,Hipertensi
